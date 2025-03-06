@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hans
-- 👀 I’m interested in game development or cs in general
-- 🌱 I’m currently learning python and a couple eecs concepts
-- 💞️ I’m looking to collaborate on game developments
+- 👀 I’m interested in coding and cs in general
+- 🌱 I’m currently learning python and a couple eecs courses
+- 💞️ I’m looking to collaborate on game developments and such
 - 📫 How to reach me ...
 
 <!---
